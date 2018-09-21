@@ -1,0 +1,88 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CPRSS_v1.0
+</name>
+</assembly>
+<members>
+<member name="P:CPRSS_v1._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources._523px_Text_csv_text_svg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.About_US">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.Close_Box_Red">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.Computer_CPU_PNG_Clipart_741">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.computer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.Customer_PNG_Picture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.database_backup_icon_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.fork5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.Icons_respaldo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.key_PNG1180">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.msi_GAMING_moboandgpu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.organization256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.Stack_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.transaction_icon_16215">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.Untitled_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:CPRSS_v1._0.My.Resources.Resources.user_login_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:CPRSS_v1._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,175 @@
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.pdb
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.xml
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.MainForm.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Resources.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbproj.GenerateResource.Cache
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.exe
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.xml
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.pdb
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.About.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Categories.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Customer_Details.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Login.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.POS.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Process.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.products.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Stocksin.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Suppliers.resources
+C:\Users\Alvin\AppData\Local\Temporary Projects\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.SystemUsers.resources
+C:\Users\Alvin\documents\visual studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.exe
+C:\Users\Alvin\documents\visual studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.xml
+C:\Users\Alvin\documents\visual studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.pdb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.pdb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.xml
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Categories.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Customer_Details.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Login.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.MainForm.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Resources.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.products.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Stocksin.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Suppliers.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbproj.GenerateResource.Cache
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe.config
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Reports.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Receipts.rpt
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Receipts.vb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Stocksinreport.rpt
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Stocksinreport.vb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Records_Reports.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Customer.rpt
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Customer.vb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Productlist.rpt
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Productlist.vb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Supplierlist.rpt
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Supplierlist.vb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Systemuserlist.rpt
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Systemuserlist.vb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Records.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Transact.rpt
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Transact.vb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.TempForm.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.users.resources
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Roles.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe.config
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.exe
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.xml
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.pdb
+C:\Users\Alvin\Documents\Visual Studio 2010\Projects\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Purchase.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Customer.rpt
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Productlist.rpt
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Receipts.rpt
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Stocksinreport.rpt
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Supplierlist.rpt
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Systemuserlist.rpt
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Transact.rpt
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Customer.vb
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Productlist.vb
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Receipts.vb
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Stocksinreport.vb
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Supplierlist.vb
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Systemuserlist.vb
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Transact.vb
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.pdb
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.xml
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Purchase.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Roles.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.users.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Categories.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Customer_Details.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Login.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.MainForm.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Resources.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.products.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Records.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Records_Reports.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Reports.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Stocksin.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Suppliers.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.TempForm.resources
+C:\Users\Alvin\Desktop\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbproj.GenerateResource.Cache
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe.config
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.exe
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.xml
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.pdb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Customer.rpt
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Productlist.rpt
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Receipts.rpt
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Stocksinreport.rpt
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Supplierlist.rpt
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Systemuserlist.rpt
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Transact.rpt
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Customer.vb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Productlist.vb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Receipts.vb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Stocksinreport.vb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Supplierlist.vb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Systemuserlist.vb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Transact.vb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.pdb
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.xml
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbprojResolveAssemblyReference.cache
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Purchase.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Roles.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.users.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Categories.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Customer_Details.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Login.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.MainForm.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Resources.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.products.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Records.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Records_Reports.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Reports.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Stocksin.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Suppliers.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.TempForm.resources
+E:\Alvin_Files\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbproj.GenerateResource.Cache
+E:\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe.config
+E:\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.exe
+E:\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.xml
+E:\Alvin_Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.pdb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe.config
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.exe
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.xml
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.pdb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbprojResolveAssemblyReference.cache
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Purchase.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Roles.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.users.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Categories.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Customer_Details.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Login.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.MainForm.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Resources.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.products.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Records.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Records_Reports.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Reports.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Stocksin.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.Suppliers.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1._0.TempForm.resources
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\obj\x86\Debug\CPRSS_v1.0.vbproj.GenerateResource.Cache
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Customer.rpt
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Productlist.rpt
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Receipts.rpt
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Stocksinreport.rpt
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Supplierlist.rpt
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Systemuserlist.rpt
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Transact.rpt
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Customer.vb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Productlist.vb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Receipts.vb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Stocksinreport.vb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Supplierlist.vb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Systemuserlist.vb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CrystalReports\Transact.vb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.exe
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.pdb
+D:\Files\Alvin Files\Programs\vb sample programs\CPRSS_v1.0\CPRSS_v1.0\bin\Debug\CPRSS_v1.0.xml
